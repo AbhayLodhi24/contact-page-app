@@ -3,7 +3,7 @@ This is a contact page app built using ReactJS, JavaScript, TailwindCSS, React R
 
 # Deployed Link : -
 
-In the project directory, you can run:
+(https://abhaylodhi24.github.io/contact-page-app/)
 
 # Pages and Functionality
 
